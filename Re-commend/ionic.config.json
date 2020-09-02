@@ -1,0 +1,7 @@
+{
+  "name": "Re-commend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931145234278",
+    "firebase_url": "https://re-commend.firebaseio.com",
+    "project_id": "re-commend",
+    "storage_bucket": "re-commend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931145234278:android:79d1b08ae04ccb231e3aa7",
+        "android_client_info": {
+          "package_name": "io.ionic.recommend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931145234278-f8pbdlp6fe253abg60j0qvk1n50khsjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcWX7UJP9mUJgltza1G_yEju5WTmEYbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931145234278-f8pbdlp6fe253abg60j0qvk1n50khsjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

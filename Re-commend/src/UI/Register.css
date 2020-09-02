@@ -1,0 +1,30 @@
+ion-slides {
+    height: 100%;
+  }  
+ion-slides .swiper-pagination-bullet-active{
+    background-color: #FFF;
+}
+
+ion-item .ion-color-dark { 
+    --border-color: #FFF;}   
+
+ion-checkbox {
+    --background-checked: #000;
+    --border-color-checked: #000;
+}
+.item-interactive, .item-has-focus{
+    --highlight-background: #99accc;
+    --highlight-color-focused: #99accc;
+   
+}
+ion-input{
+    --placeholder-font-size:12px;
+}
+ion-label .item-has-focus{
+    color:#AAA;
+}
+
+ion-toast{
+    background-color: #FFF;
+    color: #000;
+}
